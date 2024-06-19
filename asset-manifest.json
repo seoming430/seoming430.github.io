@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f8fd6e6.css",
+    "main.js": "/static/js/main.8d75d467.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/slider3.jpg": "/static/media/slider3.e92329fc8eb4749900fd.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.8b3982b493f807dbf83f.jpg",
+    "static/media/python.jpg": "/static/media/python.5a3d49673860e2a98c78.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.7d80c7b36c528126ed56.jpg",
+    "static/media/kotlin.jpg": "/static/media/kotlin.55d2de5f0fdafdb50f60.jpg",
+    "static/media/react.jpg": "/static/media/react.f2cec69159ad3e43bd1d.jpg",
+    "index.html": "/index.html",
+    "main.4f8fd6e6.css.map": "/static/css/main.4f8fd6e6.css.map",
+    "main.8d75d467.js.map": "/static/js/main.8d75d467.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f8fd6e6.css",
+    "static/js/main.8d75d467.js"
+  ]
+}
